@@ -9,7 +9,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/vantuyen-dev/vantuyen-dev/blob/main/cat-animatiom.gif" />
 
-  **Here we go**
 
   - 👨🏻‍💻 I'm AI INTERN AT <strong>CO-WELL ASIAN</strong>
   - 🔭 I want to become an AI ENGINEER.
