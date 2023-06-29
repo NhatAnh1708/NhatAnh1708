@@ -12,8 +12,9 @@
   **Here we go**
 
   - 👨🏻‍💻 I'm AI INTERN AT <strong>CO-WELL ASIAN</strong>
-  - 👨🏻‍💻 I want to become an AI ENGINEER.
-  - 👨🏻‍💻 I'm very interested in the Computer Vision.
-  
+  - 🔭 I want to become an AI ENGINEER.
+  - 👋 I'm very interested in the Computer Vision.
+
+  I'm best reached via [email](anh1708001@gmail.com).
 
 
