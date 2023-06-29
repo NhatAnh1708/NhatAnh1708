@@ -15,6 +15,6 @@
   - 🔭 I want to become an AI ENGINEER.
   - 👋 I'm very interested in the Computer Vision.
 
-  I'm best reached via [email](anh1708001@gmail.com).
+  I'm best reached via [anh1708001@gmail.com].
 
 
