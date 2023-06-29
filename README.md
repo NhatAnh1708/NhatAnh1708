@@ -12,7 +12,7 @@
   **Here we go**
 
   - 👨🏻‍💻 I'm AI INTERN AT <strong>CO-WELL ASIAN</strong>
-  - 💼 I want to become a AI ENGINEER.
+  - 💼 I want to become an AI ENGINEER.
   - 💬 I'm very interested in the Computer Vision.
   
 
