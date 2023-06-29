@@ -16,5 +16,4 @@
   - 💬 I'm very interested in the Computer Vision.
   
 
-⭐️ From [vantuyen-dev](https://github.com/vantuyen-dev)
 
