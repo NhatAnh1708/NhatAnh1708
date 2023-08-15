@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://github.com/vantuyen-dev/vantuyen-dev/blob/main/cat-animatiom.gif" />
 
 
-  - 👨🏻‍💻 I were AI INTERN AT <strong>CO-WELL ASIAN</strong>
+  - 👨🏻‍💻 I am AI FRESHER 
   - 🔭 I want to become an AI ENGINEER.
   - 👋 I'm very interested in the Computer Vision.
 
