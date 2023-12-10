@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://github.com/vantuyen-dev/vantuyen-dev/blob/main/cat-animatiom.gif" />
 
 
-  - 🔭 I want to become an AI SOLUTION.
+  - 🔭 I want to become a Solution Architect.
   - 👋 I'm very interested in the Computer Vision and NLP.
 
   I'm best reached via [anh1708001@gmail.com].
