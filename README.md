@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=red&width=500&lines=Hi%2C+I+am+an+MACHINE+LEARNING+ENGINEER" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=red&width=500&lines=Hi%2C+I+am+a+MACHINE+LEARNING+ENGINEER" />
   </a>
   <br>
 </h1>
