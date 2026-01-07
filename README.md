@@ -1,16 +1,45 @@
-<link rel="stylesheet" type="text/css" href="./style.css" />
+<h1 align="center">Hi 👋, I'm Danny — Applied AI Engineer</h1>
+<h3 align="center">Machine Learning & Cloud Engineering | Solution Architect Path</h3>
 
-<h1 align="center">
-  <a href="#">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=red&width=500&lines=Hi%2C+I+am+a+MACHINE+LEARNING+ENGINEER" />
-  </a>
-  <br>
-</h1>
+<p align="center">
+⚙ AWS Certified Machine Learning — Kotlin • Java • Python • Terraform • MLOps • Cloud (AWS | GCP | Azure)
+</p>
 
-  - 🔭 I want to become a Solution Architect.
-  - 👋 I'm very interested in the Computer Vision and NLP.
+- 🔭 Currently working as an **Applied AI Engineer**
+- 🎯 Career goal: **Solution Architect specializing in AI & Cloud**
+- 🤖 Strong focus on **Computer Vision, NLP, and Generative AI**
+- ☁ Experienced across **AWS, GCP, and Azure**
+- 🧠 Passionate about building **end-to-end AI systems & scalable cloud solutions**
+- 📩 Reach me at: anh1708001@gmail.com
 
-  I'm best reached via [anh1708001@gmail.com].
+🏅 **AWS Certified Machine Learning – Specialty**
+(And actively expanding certifications across Cloud & Architecture domains)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+**Languages**
+Kotlin • Java • Python • Bash • SQL
+
+**Machine Learning & AI**
+PyTorch • TensorFlow • OpenCV • PaddleOCR • LangChain
+
+**Cloud & DevOps**
+AWS • GCP • Azure • Terraform • Docker • Kubernetes
+
+**Data & Backend**
+PostgreSQL • Redis • FastAPI • Micronaut • REST • gRPC
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+🚀 Building:
+- AI-powered automation & document intelligence systems
+- Computer Vision pipelines & OCR processing
+- Cloud-native backend & MLOps workflows
+![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
