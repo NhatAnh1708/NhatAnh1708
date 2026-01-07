@@ -42,4 +42,4 @@ PostgreSQL • Redis • FastAPI • Micronaut • REST • gRPC
 - AI-powered automation & document intelligence systems
 - Computer Vision pipelines & OCR processing
 - Cloud-native backend & MLOps workflows
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
